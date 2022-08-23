@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/parallel.openstorage.io",
     "slug": "parallel",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 107,
     "timeDay": 107,
     "timeWeek": 107,
@@ -79,18 +79,16 @@
     "icon": "https://favicons.githubusercontent.com/registry.openstorage.xyz",
     "slug": "harbor",
     "status": "up",
-    "uptime": "1.50%",
-    "uptimeDay": "1.50%",
-    "uptimeWeek": "1.50%",
-    "uptimeMonth": "1.50%",
-    "uptimeYear": "1.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 379,
     "timeWeek": 379,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {
-      "2022-08-23": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
