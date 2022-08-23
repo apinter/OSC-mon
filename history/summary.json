@@ -22,18 +22,20 @@
     "url": "https://hedgedoc.openstorage.xyz",
     "icon": "https://favicons.githubusercontent.com/hedgedoc.openstorage.xyz",
     "slug": "hedgedoc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 435,
+    "timeDay": 435,
+    "timeWeek": 435,
+    "timeMonth": 435,
+    "timeYear": 435,
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   },
   {
     "name": "Parallel",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/parallel.openstorage.io",
     "slug": "parallel",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2022-08-23": 140
+      "2022-08-23": 862
     }
   },
   {
@@ -78,17 +80,19 @@
     "url": "https://registry.openstorage.xyz",
     "icon": "https://favicons.githubusercontent.com/registry.openstorage.xyz",
     "slug": "harbor",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 362,
+    "timeDay": 362,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
