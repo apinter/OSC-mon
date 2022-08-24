@@ -9,10 +9,18 @@ sites:
     url: https://hedgedoc.openstorage.xyz
   - name: Parallel
     url: https://parallel.openstorage.io
+    method: POST
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+      - 302
   - name: Gitea
     url: https://gitea.openstorage.xyz
   - name: Harbor
     url: https://registry.openstorage.xyz
+assignees:
+  - apinter
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
