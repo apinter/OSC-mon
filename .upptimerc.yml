@@ -8,13 +8,9 @@ sites:
   - name: Hedgedoc
     url: https://hedgedoc.openstorage.xyz
   - name: Parallel
-    url: https://parallel.openstorage.io/_matrix/static/
-    method: POST
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 202
-      - 302
+    url: parallel.openstorage.io
+    check: tcp-ping
+    port: 443
   - name: Gitea
     url: https://gitea.openstorage.xyz
   - name: Harbor
