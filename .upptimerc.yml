@@ -8,7 +8,7 @@ sites:
   - name: Hedgedoc
     url: https://hedgedoc.openstorage.xyz
   - name: Parallel
-    url: https://parallel.openstorage.io
+    url: https://parallel.openstorage.io/_matrix/static/
     method: POST
     expectedStatusCodes:
       - 200
