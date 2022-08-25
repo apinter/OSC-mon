@@ -1,7 +1,7 @@
 url: https://hedgedoc.openstorage.xyz
-status: up
-code: 200
-responseTime: 424
-lastUpdated: 2022-08-25T06:17:34.899Z
+status: down
+code: 502
+responseTime: 328
+lastUpdated: 2022-08-25T20:40:00.829Z
 startTime: Tue Aug 23 2022 06:12:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
