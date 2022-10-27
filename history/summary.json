@@ -4,19 +4,19 @@
     "url": "https://openstorage.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/openstorage.xyz.ico",
     "slug": "osc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 360,
-    "timeWeek": 367,
-    "timeMonth": 554,
-    "timeYear": 533,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 532,
+    "timeDay": 404,
+    "timeWeek": 377,
+    "timeMonth": 550,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2022-10-27": 0
+      "2022-10-27": 13
     }
   },
   {
