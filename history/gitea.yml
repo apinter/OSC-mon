@@ -1,7 +1,7 @@
 url: https://gitea.openstorage.xyz
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2023-08-10T23:03:15.698Z
+status: down
+code: 502
+responseTime: 370
+lastUpdated: 2023-08-11T21:31:34.420Z
 startTime: Tue Aug 23 2022 06:12:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
