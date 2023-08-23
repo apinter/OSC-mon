@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.70%",
-    "time": 875,
-    "timeDay": 405,
-    "timeWeek": 1086,
-    "timeMonth": 1188,
-    "timeYear": 875,
+    "time": 874,
+    "timeDay": 316,
+    "timeWeek": 1084,
+    "timeMonth": 1181,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2023-07-08": 73,
       "2023-07-06": 93,
@@ -60,17 +60,16 @@
     "slug": "hedgedoc",
     "status": "up",
     "uptime": "86.60%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "86.60%",
     "time": 668,
-    "timeDay": 1199,
-    "timeWeek": 837,
+    "timeDay": 650,
+    "timeWeek": 832,
     "timeMonth": 635,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2023-08-22": 6,
       "2023-07-12": 86,
       "2023-07-08": 71,
       "2023-07-03": 647,
@@ -167,8 +166,7 @@
       "2022-08-28": 207,
       "2022-08-26": 206,
       "2022-08-25": 578,
-      "2022-08-24": 326,
-      "2022-08-23": 205
+      "2022-08-24": 326
     }
   },
   {
@@ -183,13 +181,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 23,
-    "timeDay": 23,
-    "timeWeek": 158,
-    "timeMonth": 51,
+    "timeDay": 34,
+    "timeWeek": 157,
+    "timeMonth": 52,
     "timeYear": 23,
     "dailyMinutesDown": {
-      "2022-08-24": 128,
-      "2022-08-23": 1067
+      "2022-08-24": 128
     }
   },
   {
@@ -198,18 +195,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.openstorage.xyz.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "90.78%",
-    "uptimeDay": "99.57%",
+    "uptime": "90.75%",
+    "uptimeDay": "89.11%",
     "uptimeWeek": "96.44%",
     "uptimeMonth": "75.16%",
-    "uptimeYear": "90.78%",
-    "time": 548,
-    "timeDay": 610,
-    "timeWeek": 435,
+    "uptimeYear": "90.75%",
+    "time": 547,
+    "timeDay": 541,
+    "timeWeek": 431,
     "timeMonth": 406,
-    "timeYear": 548,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2023-08-22": 6,
+      "2023-08-23": 10,
+      "2023-08-22": 147,
       "2023-08-16": 212,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -295,8 +293,8 @@
     "uptimeMonth": "59.27%",
     "uptimeYear": "81.58%",
     "time": 652,
-    "timeDay": 698,
-    "timeWeek": 676,
+    "timeDay": 570,
+    "timeWeek": 657,
     "timeMonth": 1214,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -418,8 +416,7 @@
       "2022-08-27": 1238,
       "2022-08-26": 205,
       "2022-08-25": 378,
-      "2022-08-24": 326,
-      "2022-08-23": 205
+      "2022-08-24": 326
     }
   }
 ]
