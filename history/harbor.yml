@@ -1,7 +1,7 @@
 url: https://registry.openstorage.xyz
-status: down
-code: 502
-responseTime: 693
-lastUpdated: 2023-09-02T23:03:39.870Z
+status: up
+code: 200
+responseTime: 757
+lastUpdated: 2023-09-03T21:35:32.276Z
 startTime: 2022-08-23T06:12:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
