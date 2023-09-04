@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.70%",
-    "time": 874,
-    "timeDay": 394,
-    "timeWeek": 1207,
-    "timeMonth": 1242,
+    "time": 873,
+    "timeDay": 375,
+    "timeWeek": 1208,
+    "timeMonth": 1231,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2023-07-08": 73,
@@ -63,11 +63,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.31%",
+    "uptimeYear": "87.34%",
     "time": 673,
-    "timeDay": 450,
-    "timeWeek": 1010,
-    "timeMonth": 734,
+    "timeDay": 477,
+    "timeWeek": 1017,
+    "timeMonth": 732,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2023-07-12": 86,
@@ -157,8 +157,7 @@
       "2022-09-12": 110,
       "2022-09-11": 203,
       "2022-09-06": 253,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -173,7 +172,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 23,
+    "timeDay": 10,
     "timeWeek": 22,
     "timeMonth": 51,
     "timeYear": 20,
@@ -187,13 +186,13 @@
     "status": "up",
     "uptime": "89.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.80%",
+    "uptimeWeek": "75.34%",
     "uptimeMonth": "66.85%",
     "uptimeYear": "88.92%",
-    "time": 548,
-    "timeDay": 386,
-    "timeWeek": 650,
-    "timeMonth": 452,
+    "time": 547,
+    "timeDay": 357,
+    "timeWeek": 652,
+    "timeMonth": 451,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2023-08-29": 1057,
@@ -283,16 +282,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.openstorage.xyz.ico",
     "slug": "harbor",
     "status": "up",
-    "uptime": "79.24%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.26%",
-    "uptimeYear": "79.16%",
+    "uptime": "79.25%",
+    "uptimeDay": "10.79%",
+    "uptimeWeek": "1.54%",
+    "uptimeMonth": "36.61%",
+    "uptimeYear": "79.19%",
     "time": 654,
-    "timeDay": 725,
-    "timeWeek": 727,
+    "timeDay": 752,
+    "timeWeek": 725,
     "timeMonth": 908,
-    "timeYear": 672,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2023-09-03": 1296,
       "2023-09-02": 1440,
@@ -416,8 +415,7 @@
       "2022-10-16": 199,
       "2022-10-03": 310,
       "2022-10-02": 203,
-      "2022-09-05": 1235,
-      "2022-09-04": 1440
+      "2022-09-05": 1235
     }
   }
 ]
