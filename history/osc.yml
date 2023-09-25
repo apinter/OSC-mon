@@ -1,7 +1,7 @@
 url: https://openstorage.xyz
-status: up
-code: 200
-responseTime: 343
-lastUpdated: 2023-09-24T23:03:27.039Z
+status: down
+code: 502
+responseTime: 2131
+lastUpdated: 2023-09-25T21:32:08.884Z
 startTime: 2022-08-23T06:12:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
