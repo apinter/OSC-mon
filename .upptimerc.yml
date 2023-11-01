@@ -6,15 +6,15 @@ sites:
   - name: OSC
     url: https://openstorage.xyz
   - name: Hedgedoc
-    url: https://hedgedocadathor.com
+    url: https://hedgedoc.adathor.com
   - name: Parallel
     url: parallel.openstorage.io
     check: tcp-ping
     port: 443
   - name: Gitea
-    url: https://giteaadathor.com
+    url: https://gitea.adathor.com
   - name: Harbor
-    url: https://registryadathor.com
+    url: https://registry.adathor.com
 assignees:
   - apinter
 
