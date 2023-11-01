@@ -1,7 +1,7 @@
 url: https://gitea.adathor.com
-status: up
-code: 200
-responseTime: 1312
-lastUpdated: 2023-11-01T11:50:10.817Z
+status: down
+code: 502
+responseTime: 611
+lastUpdated: 2023-11-01T21:32:23.147Z
 startTime: 2022-08-23T06:12:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
