@@ -1,7 +1,7 @@
 url: https://hedgedoc.adathor.com
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2023-11-04T23:03:16.274Z
+status: down
+code: 502
+responseTime: 345
+lastUpdated: 2023-11-05T21:31:16.540Z
 startTime: 2022-08-23T06:12:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
