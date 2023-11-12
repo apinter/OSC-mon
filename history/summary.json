@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "97.69%",
     "time": 851,
-    "timeDay": 373,
-    "timeWeek": 678,
-    "timeMonth": 927,
-    "timeYear": 913,
+    "timeDay": 801,
+    "timeWeek": 726,
+    "timeMonth": 897,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2023-11-06": 36,
       "2023-10-06": 44,
@@ -51,8 +51,7 @@
       "2022-12-24": 144,
       "2022-12-23": 215,
       "2022-12-22": 845,
-      "2022-11-13": 609,
-      "2022-11-12": 495
+      "2022-11-13": 609
     }
   },
   {
@@ -61,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hedgedoc.adathor.com.ico",
     "slug": "hedgedoc",
     "status": "up",
-    "uptime": "86.85%",
+    "uptime": "86.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "87.84%",
     "time": 716,
-    "timeDay": 419,
-    "timeWeek": 850,
-    "timeMonth": 870,
-    "timeYear": 774,
+    "timeDay": 927,
+    "timeWeek": 883,
+    "timeMonth": 866,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2023-11-06": 36,
       "2023-11-01": 407,
@@ -148,8 +147,7 @@
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1287,
-      "2022-11-13": 609,
-      "2022-11-12": 494
+      "2022-11-13": 609
     }
   },
   {
@@ -164,8 +162,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 23,
-    "timeDay": 40,
-    "timeWeek": 24,
+    "timeDay": 34,
+    "timeWeek": 23,
     "timeMonth": 23,
     "timeYear": 22,
     "dailyMinutesDown": {}
@@ -176,15 +174,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.adathor.com.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "90.58%",
+    "uptime": "90.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "88.52%",
-    "time": 561,
-    "timeDay": 422,
-    "timeWeek": 479,
-    "timeMonth": 690,
+    "time": 560,
+    "timeDay": 320,
+    "timeWeek": 484,
+    "timeMonth": 691,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2023-11-08": 201,
@@ -273,8 +271,7 @@
       "2022-12-23": 215,
       "2022-12-22": 842,
       "2022-11-14": 72,
-      "2022-11-13": 609,
-      "2022-11-12": 492
+      "2022-11-13": 609
     }
   },
   {
@@ -283,18 +280,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.adathor.com.ico",
     "slug": "harbor",
     "status": "down",
-    "uptime": "75.74%",
+    "uptime": "75.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.21%",
+    "uptimeWeek": "40.91%",
     "uptimeMonth": "72.88%",
-    "uptimeYear": "73.52%",
-    "time": 709,
-    "timeDay": 357,
-    "timeWeek": 577,
-    "timeMonth": 954,
+    "uptimeYear": "73.25%",
+    "time": 708,
+    "timeDay": 315,
+    "timeWeek": 569,
+    "timeMonth": 946,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2023-11-11": 11,
+      "2023-11-12": 12,
+      "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -446,8 +444,7 @@
       "2022-12-06": 1428,
       "2022-12-05": 1225,
       "2022-11-21": 762,
-      "2022-11-13": 609,
-      "2022-11-12": 491
+      "2022-11-13": 609
     }
   }
 ]
